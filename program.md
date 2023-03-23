@@ -1,8 +1,6 @@
-<html data-color-mode="dark" data-dark-theme="dark_dimmed">
-
 <link href="https://unpkg.com/@primer/css@^20.2.4/dist/primer.css" rel="stylesheet" />
 
-<h1>Den Země</h1>
+ # Den Země
 
 <table>
 <thead>
@@ -176,4 +174,6 @@
   </tr>
 </tbody>
 </table>
+
+<html data-color-mode="dark" data-dark-theme="dark_dimmed">
 </html>
