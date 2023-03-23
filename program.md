@@ -1,3 +1,7 @@
+<head>
+    <link href="https://unpkg.com/@primer/css@^20.2.4/dist/primer.css" rel="stylesheet" />
+</head>
+
 # Den Země
 
 <table>
