@@ -174,6 +174,3 @@
   </tr>
 </tbody>
 </table>
-
-<html data-color-mode="dark" data-dark-theme="dark_dimmed">
-</html>
