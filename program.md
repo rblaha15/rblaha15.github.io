@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td>10:50-11:00</td>
-    <td rowspan="2" colspan="4"></td>
+    <td rowspan="2" colspan="4">Hlavní přestávka</td>
   </tr>
   <tr>
     <td>11:00-11:10</td>
