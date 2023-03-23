@@ -89,17 +89,10 @@
   </tr>
   <tr>
     <td>10:50-11:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td rowspan="2" colspan="4"></td>
   </tr>
   <tr>
     <td>11:00-11:10</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>11:10-11:20</td>
